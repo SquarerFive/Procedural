@@ -73,3 +73,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Plugins/Developer/
+Content/BlackAlder/
+Content/Megascans/3D_Plants/Dead_Shrubs_vdknafgha/MI_Dead_Shrubs_vdknafgha_4K.uasset
+Content/Megascans/
+Content/MSPresets/
+Content/Private/
+BlackAlder.png
