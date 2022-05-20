@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class PROCEDURAL_API ACesiumFoliageActor : public AGenericFoliageActor
+class CESIUMGENERICFOLIAGE_API ACesiumFoliageActor : public AGenericFoliageActor
 {
 	GENERATED_BODY()
 
